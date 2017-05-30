@@ -1,0 +1,22 @@
+All's Well that Ends Well.txt       Uncompressed size: 319324 Compressed size: 45001 Compression ratio: 7.09593
+Anthony and Cleopatra.txt           Uncompressed size: 382262 Compressed size: 51660 Compression ratio: 7.39957
+As You Like It.txt                  Uncompressed size: 296196 Compressed size: 41616 Compression ratio: 7.11736
+Coriolanus.txt                      Uncompressed size: 400850 Compressed size: 55223 Compression ratio: 7.25875
+Cymbeline.txt                       Uncompressed size: 380778 Compressed size: 55698 Compression ratio: 6.83648
+Hamlet, Prince of Denmark.txt       Uncompressed size: 428316 Compressed size: 60386 Compression ratio: 7.09297
+King Lear.txt                       Uncompressed size: 376180 Compressed size: 53509 Compression ratio: 7.03022
+Love's Labour's Lost.txt            Uncompressed size: 312858 Compressed size: 45094 Compression ratio: 6.93791
+Measure for Measure.txt             Uncompressed size: 306466 Compressed size: 42594 Compression ratio: 7.19505
+Much Ado About Nothing.txt          Uncompressed size: 299368 Compressed size: 40261 Compression ratio: 7.43568
+Othello, the Moor of Venice.txt     Uncompressed size: 378550 Compressed size: 51703 Compression ratio: 7.32163
+Pericles, Prince of Tyre.txt        Uncompressed size: 261972 Compressed size: 38314 Compression ratio: 6.8375
+The Merchant of Venice.txt          Uncompressed size: 282602 Compressed size: 41081 Compression ratio: 6.87914
+The Merry Wives of Windsor.txt      Uncompressed size: 314828 Compressed size: 42291 Compression ratio: 7.44433
+The Taming of the Shrew.txt         Uncompressed size: 303906 Compressed size: 41728 Compression ratio: 7.28302
+The Tempest.txt                     Uncompressed size: 239694 Compressed size: 35968 Compression ratio: 6.66409
+The Two Gentlemen of Verona.txt     Uncompressed size: 251662 Compressed size: 33938 Compression ratio: 7.41535
+The Winter's Tale.txt               Uncompressed size: 335306 Compressed size: 49952 Compression ratio: 6.71256
+Troilus and Cressida.txt            Uncompressed size: 384338 Compressed size: 53624 Compression ratio: 7.16728
+Twelfth-Night; or What You Will.txt Uncompressed size: 280142 Compressed size: 39093 Compression ratio: 7.16604
+
+Total uncompressed size: 6535598 Total compressed size: 918734 Total compression ratio: 7.1137
